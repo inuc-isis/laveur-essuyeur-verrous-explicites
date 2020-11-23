@@ -3,12 +3,6 @@ package lavavageexplicit;
 import java.util.*;
 import java.io.*;
 
-
-
-
-
-
-
 public class Lavage {
 
 	public static void main(String[] args) {
